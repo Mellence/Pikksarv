@@ -1,2 +1,2 @@
 # MellOS
-Operating System made as a learning experience
+An OS developed as a learning experience.
